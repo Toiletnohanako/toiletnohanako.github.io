@@ -1,0 +1,11 @@
+.container {
+    max-width: 768px;
+    margin: 0 auto; /* center the container */
+    padding: 0 20px;
+}
+body
+{
+    color:darkmagenta;
+    background-color: rgb(255, 178, 178);
+    font-family: 'Courier New', Courier, monospace;
+}
